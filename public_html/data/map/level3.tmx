@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="90" height="90" tilewidth="70" tileheight="70" backgroundcolor="#aaaaff">
+ <tileset firstgid="1" name="background-tiles" tilewidth="70" tileheight="70">
+  <image source="../img/background-tiles.png" width="910" height="910"/>
+ </tileset>
+ <tileset firstgid="170" name="cloud-tiles" tilewidth="70" tileheight="70">
+  <image source="../img/cloud-tiles.png" width="387" height="71"/>
+ </tileset>
+ <tileset firstgid="175" name="item-spritesheet" tilewidth="70" tileheight="70">
+  <image source="../img/item-spritesheet.png" width="560" height="560"/>
+ </tileset>
+ <tileset firstgid="239" name="meta-tiles" tilewidth="70" tileheight="70">
+  <image source="../img/meta-tiles.png" width="350" height="70"/>
+ </tileset>
+ <layer name="background" width="90" height="90">
+  <data encoding="base64" compression="zlib">
+   eJzt1UsKgzAUBdC3ltZhP8N2KV1juslm4CCkhrZWEfUcuMREEuQSMEXEs0jqU6+Vc35Xdvip3ym7vk9wxpqkeL/DQ/2mGL7vY93+2LtGrf7q/lvjGI8+e1L3PJTW+zE9763fJeh4fjqen44jDjnHnK7xXI71WvfF+Xv857FNp5xzziXnuvC3bEHdZ2uudwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgO15AV1tOoI=
+  </data>
+ </layer>
+ <layer name="collision" width="90" height="90" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKwCAMQFHvf91coEuHImgLpiLkPQgumT7B1oAMcQ//iG7I1zfWOt+osc55Zo11zhGPt2rntztbvcPRXpW+J6h0zyfQ+ZvVP0fnPXTeQ2cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKq5APQjSCU=
+  </data>
+ </layer>
+</map>
