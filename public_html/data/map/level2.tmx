@@ -28,11 +28,7 @@
   </data>
  </layer>
  <objectgroup name="trigger-entites" width="16" height="16" opacity="0.97">
-  <object name="levelTrigger" x="630" y="0" width="70" height="140">
-   <properties>
-    <property name="level" value="level3"/>
-   </properties>
-  </object>
+  <object name="levelTrigger" x="0" y="910" width="70" height="140"/>
  </objectgroup>
  <layer name="collision" width="16" height="16">
   <data encoding="base64">
